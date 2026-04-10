@@ -32,6 +32,7 @@ src/data/UrbanSound8K/
 ├─ audio/fold1 ... fold10
 └─ metadata/UrbanSound8K.csv
 ```
+数据集下载：http://10.201.201.213/#s/_aLn_dIA
 
 ## 3) 环境与依赖
 
