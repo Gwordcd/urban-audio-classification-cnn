@@ -1,4 +1,4 @@
-# UrbanSound8K 分类（课程实验）
+# 采用 Log-Mel 频谱与轻量 CNN 的 UrbanSound8K 分类
 
 本项目是一个可直接运行的 UrbanSound8K 十分类基线实现：
 
